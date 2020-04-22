@@ -1,0 +1,1 @@
+python run_ssd_example.py mb2-ssd-lite models/ssd_mobile2/mb2-ssd-lite-Epoch-200-Loss-1.9399720534034397.pth models/ssd_mobile/voc-model-labels.txt /home/karan/Downloads/FLIR_ADAS/training/PreviewData/FLIR_00005.jpeg 1_9
