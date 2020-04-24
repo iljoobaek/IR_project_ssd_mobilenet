@@ -1,0 +1,8 @@
+Directory consists of:
+
+image_names.txt : list of all images train val and test
+trainval.txt    : list of training and validation images
+test.txt	: list of test images
+
+make_test_train.py : use this python program to split image_names.txt into
+trainval.txt and test.txt
