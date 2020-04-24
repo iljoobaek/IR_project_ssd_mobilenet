@@ -21,4 +21,5 @@ home/data/VOCdevkit2007/VOC2007/
     
         --annotation.xml
    
-   Requirements: Python 3, pytorch, opencv.
+Requirements: Python 3, pytorch, opencv.
+To train: run the start_training.sh script.
