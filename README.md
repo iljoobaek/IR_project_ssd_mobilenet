@@ -22,4 +22,9 @@ home/data/VOCdevkit2007/VOC2007/
         --annotation.xml
    
 Requirements: Python 3, pytorch, opencv.
+
+Copy over the data folder to your home directory and place the annotation xml files in Annotations folder and Images in JPEGImages folder.
+
+Data Split : 1-8862 images from FLIR training and validation images and 1-3000 images from FLIR video images are used for training and validation of the model and 3001 to 4224 video images are used for testing the trained model and evaluating metrics.
+
 To train: run the start_training.sh script.
